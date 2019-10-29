@@ -7,11 +7,11 @@ body {
   color: white;
 }
 
-a {
+#matnr {
   color: white;
 }
 
-a:hover {
+#matnr:hover {
   background-color: yellow;
   color: green;
 }
