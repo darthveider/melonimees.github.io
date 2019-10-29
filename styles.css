@@ -6,3 +6,12 @@ body {
   background-color: black;
   color: white;
 }
+
+a {
+  color: white;
+}
+
+a:hover {
+  background-color: yellow;
+  color: green;
+}
